@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8C7mSGwzlPiKp4v3oEJ8ZHeIsyc0XRQRZX0VP5j394ix5lSJiW54fXWmu4ZvmjaKnsMVSHhRlBRV45AQH8Y9Tg==",
+  "success": true,
+  "projectFilePath": "F:\\CgApr6Batch\\EMSProject\\EMSProjectDemo\\EMSProjectDemo\\EMSProjectDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pankaj.PANKAJ-PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
