@@ -8,5 +8,7 @@ namespace EMSProjectDemo
     {
         public int EmployeeID { get; set; }
         public string Name { get; set; }
+
+        public double BaseSal { get; set; }
     }
 }

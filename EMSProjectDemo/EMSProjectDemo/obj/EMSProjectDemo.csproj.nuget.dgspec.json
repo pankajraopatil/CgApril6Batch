@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\CgApr6Batch\\EMSProject\\EMSProjectDemo\\EMSProjectDemo\\EMSProjectDemo.csproj": {}
+    "C:\\Pankaj_repo\\EMSProjectDemo\\EMSProjectDemo\\EMSProjectDemo.csproj": {}
   },
   "projects": {
-    "F:\\CgApr6Batch\\EMSProject\\EMSProjectDemo\\EMSProjectDemo\\EMSProjectDemo.csproj": {
+    "C:\\Pankaj_repo\\EMSProjectDemo\\EMSProjectDemo\\EMSProjectDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CgApr6Batch\\EMSProject\\EMSProjectDemo\\EMSProjectDemo\\EMSProjectDemo.csproj",
+        "projectUniqueName": "C:\\Pankaj_repo\\EMSProjectDemo\\EMSProjectDemo\\EMSProjectDemo.csproj",
         "projectName": "EMSProjectDemo",
-        "projectPath": "F:\\CgApr6Batch\\EMSProject\\EMSProjectDemo\\EMSProjectDemo\\EMSProjectDemo.csproj",
-        "packagesPath": "C:\\Users\\Pankaj.PANKAJ-PC\\.nuget\\packages\\",
-        "outputPath": "F:\\CgApr6Batch\\EMSProject\\EMSProjectDemo\\EMSProjectDemo\\obj\\",
+        "projectPath": "C:\\Pankaj_repo\\EMSProjectDemo\\EMSProjectDemo\\EMSProjectDemo.csproj",
+        "packagesPath": "C:\\Users\\DHSAGAR\\.nuget\\packages\\",
+        "outputPath": "C:\\Pankaj_repo\\EMSProjectDemo\\EMSProjectDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Pankaj.PANKAJ-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DHSAGAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,14 +45,27 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
           "downloadDependencies": [
             {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.25, 3.1.25]"
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
             }
           ],
           "frameworkReferences": {
@@ -60,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
