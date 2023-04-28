@@ -10,5 +10,6 @@ namespace EMSProjectDemo
         public string Name { get; set; }
 
         public double BaseSal { get; set; }
+        public int HRA { get; set; }
     }
 }
